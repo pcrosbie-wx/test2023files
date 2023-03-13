@@ -1,2 +1,3 @@
 test3
 Adding some content for the fixTemp branch
+Made more changes in a branch
